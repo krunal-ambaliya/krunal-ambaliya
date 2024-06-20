@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunal-ambaliya&label=Profile%20views&color=0e75b6&style=flat" alt="krunal-ambaliya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunal-ambaliya" alt="krunal-ambaliya" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=krunal-ambaliya" alt="krunal-ambaliya" /></a> </p>
 
 - 🔭 I’m currently working on e-commerce website **foodyzone**
 
