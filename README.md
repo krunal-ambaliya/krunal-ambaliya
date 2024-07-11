@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=krunal-ambaliya" alt="krunal-ambaliya" /></a> </p>
 
-- 🔭 I’m currently working on e-commerce website **foodyzone**
+- 🔭 I’m currently working on e-commerce website **Propdoc**
 
 - 📫 How to reach me **krunal.ambaliya@gmail.com**
 
