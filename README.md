@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on e-commerce website **Propdoc**
 
-- 📫 How to reach me **krunal.ambaliya@gmail.com**
+- 📫 How to reach me **krunal.ambaliya8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
