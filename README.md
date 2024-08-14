@@ -4,9 +4,10 @@
 I'm a passionate web developer specializing in frontend development with React, and currently diving into backend technologies with MongoDB. I enjoy creating user-friendly and efficient web applications and am always eager to learn new technologies and improve my skills.
 <h1>🚀 Currently Working On</h2>
 
-<br>- Developing a property management website using Html/css and js for the frontend.
-<br>- Learning and implementing MongoDB for backend database management.
-<br>- Exploring best practices in web development and staying updated with the latest trends and technologies.
+
+- **Developing** a property management website using HTML/CSS and JavaScript for the frontend.
+- **Learning** and implementing MongoDB for backend database management.
+- **Exploring** best practices in web development and staying updated with the latest trends and technologies.
 
 <h1>🛠️ Technologies & Tools</h1>
 
@@ -42,18 +43,26 @@ I'm a passionate web developer specializing in frontend development with React, 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-<h1>🌟 Projects</h1>
-<h4>PropDoc Property Management Website</h4>
-<br>- Description: A web application for property management that includes features for listing properties, managing tenants, and handling rental agreements.
-<br>- Technologies Used: React, Node.js, MongoDB
-<br>- GitHub Repo: [PropDoc Repository](https://github.com/krunal-ambaliya/propdoc)
-<br><br>## 📫 How to Reach Me
-<br>- Email: [krunal.ambaliya8@gmail.com](mailto:krunal.ambaliya8@gmail.com)
-<br>- Telegram: [contact me ](https://t.me/@krues) 
-<br>
+<h2>🌟 Projects</h2>
+
+<div style="margin-bottom: 20px;">
+    <h3>PropDoc Property Management Website</h3>
+    <ul>
+        <li><strong>Description:</strong> A web application for property management that includes features for listing properties, managing tenants, and handling rental agreements.</li>
+        <li><strong>Technologies Used:</strong> React, Node.js, MongoDB</li>
+        <li><strong>GitHub Repo:</strong> <a href="https://github.com/krunal-ambaliya/propdoc" target="_blank">PropDoc Repository</a></li>
+    </ul>
+</div>
 
 
-## 🌐 Socials:
+
+### 📫 How to Reach Me
+
+- **Email:** [krunal.ambaliya8@gmail.com](mailto:krunal.ambaliya8@gmail.com)
+- **Telegram:**[Message Me](https://t.me/@krues)
+
+
+<h1>🌐 Socials</h1>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ordinary.krunal) 
 
 # 💻 Tech Stack:
@@ -61,15 +70,15 @@ I'm a passionate web developer specializing in frontend development with React, 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-<br> 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-<br> 
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 <br> 
-# 📊 GitHub Stats:
+
+<h1>📊 GitHub Stats:</h1>
 ![](https://github-readme-stats.vercel.app/api?username=krunal-ambaliya&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krunal-ambaliya&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krunal-ambaliya&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
