@@ -21,7 +21,11 @@ I'm a passionate web developer specializing in frontend development with React, 
 
 <br>
 <h4> Version control</h4>
-[![GitHub](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <h4> Others </h4>
 
