@@ -81,6 +81,7 @@ I'm a passionate web developer specializing in frontend development with React, 
 <br> 
 
 <h1>📊 GitHub Stats:</h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=krunal-ambaliya&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krunal-ambaliya&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krunal-ambaliya&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
