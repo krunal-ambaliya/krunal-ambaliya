@@ -1,7 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Krunal Ambaliya<br><br>
+<h3>👋 Hi, I'm Krunal Ambaliya</h3><br><br>
+
 I'm a passionate web developer specializing in frontend development with React, and currently diving into backend technologies with MongoDB. I enjoy creating user-friendly and efficient web applications and am always eager to learn new technologies and improve my skills.
-<br><br>## 🚀 Currently Working On
+<h2>🚀 Currently Working On</h2>
+
 <br>- Developing a property management website using Html/css and js for the frontend.
 <br>- Learning and implementing MongoDB for backend database management.
 <br>- Exploring best practices in web development and staying updated with the latest trends and technologies.
