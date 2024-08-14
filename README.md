@@ -42,8 +42,8 @@ I'm a passionate web developer specializing in frontend development with React, 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-<br><br>## 🌟 Projects
-<br>### PropDoc Property Management Website
+<h1>🌟 Projects</h1>
+<h2>PropDoc Property Management Website</h2>
 <br>- Description: A web application for property management that includes features for listing properties, managing tenants, and handling rental agreements.
 <br>- Technologies Used: React, Node.js, MongoDB
 <br>- GitHub Repo: [PropDoc Repository](https://github.com/krunal-ambaliya/propdoc)
