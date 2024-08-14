@@ -20,7 +20,6 @@ I'm a passionate web developer specializing in frontend development with React, 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
-
 <h4> Version control</h4>
 
   <a href="https://skillicons.dev">
