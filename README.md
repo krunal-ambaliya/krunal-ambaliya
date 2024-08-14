@@ -20,6 +20,7 @@ I'm a passionate web developer specializing in frontend development with React, 
 <br> 
 
 <br>- Version Control: Git, GitHub
+[![Github](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
 <h4> Others </h4>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
