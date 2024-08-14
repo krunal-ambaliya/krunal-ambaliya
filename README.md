@@ -1,27 +1,26 @@
 # 💫 About Me:
-<h3>👋 Hi, I'm Krunal Ambaliya</h3><br><br>
+<h3>👋 Hi, I'm Krunal Ambaliya</h3><br>
 
 I'm a passionate web developer specializing in frontend development with React, and currently diving into backend technologies with MongoDB. I enjoy creating user-friendly and efficient web applications and am always eager to learn new technologies and improve my skills.
-<h2>🚀 Currently Working On</h2>
+<h1>🚀 Currently Working On</h2>
 
 <br>- Developing a property management website using Html/css and js for the frontend.
 <br>- Learning and implementing MongoDB for backend database management.
 <br>- Exploring best practices in web development and staying updated with the latest trends and technologies.
 ## 🛠️ Technologies & Tools
-<br> <h4> Frontened </h4> 
+<h4> Frontened </h4> 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-<br> <h4> Backened </h4> 
+ <h4> Backened </h4> 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-<br> 
 
-<br>
+
 <h4> Version control</h4>
 
   <a href="https://skillicons.dev">
