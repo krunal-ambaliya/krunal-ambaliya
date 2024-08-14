@@ -21,7 +21,7 @@ I'm a passionate web developer specializing in frontend development with React, 
 
 <br>
 <h4> Version control</h4>
-[![Github](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
+![Github](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
 
 <h4> Others </h4>
 
