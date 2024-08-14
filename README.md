@@ -8,7 +8,7 @@ I'm a passionate web developer specializing in frontend development with React, 
 <br>- Learning and implementing MongoDB for backend database management.
 <br>- Exploring best practices in web development and staying updated with the latest trends and technologies.
 
-## 🛠️ Technologies & Tools
+<h1>🛠️ Technologies & Tools</h1>
 
 <h4> Frontened </h4> 
 
