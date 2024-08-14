@@ -5,9 +5,8 @@ I'm a passionate web developer specializing in frontend development with React, 
 <br>- Developing a property management website using Html/css and js for the frontend.
 <br>- Learning and implementing MongoDB for backend database management.
 <br>- Exploring best practices in web development and staying updated with the latest trends and technologies.
-<br><br>## 🛠️ Technologies & Tools
-<br>-![Frontend] [React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-, JavaScript, HTML5, CSS3, SASS
+## 🛠️ Technologies & Tools
+<br>- frontend: JavaScript, HTML5, CSS3, SASS
 <br>- Backend: Node.js, MongoDB
 <br>- Version Control: Git, GitHub
 <br>- Others: REST APIs, Webpack, Babel, Bootstrap, Material-UI
