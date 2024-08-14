@@ -19,8 +19,10 @@ I'm a passionate web developer specializing in frontend development with React, 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 <br> 
 
-<br>- Version Control: Git, GitHub
+<br>
+<h4> Version control</h4>
 [![Github](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
+
 <h4> Others </h4>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
