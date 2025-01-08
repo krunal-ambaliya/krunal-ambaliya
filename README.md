@@ -80,15 +80,4 @@ I'm a passionate web developer specializing in frontend development with React, 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 <br> 
 
-<h1>📊 GitHub Stats:</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=krunal-ambaliya&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=krunal-ambaliya&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krunal-ambaliya&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krunal-ambaliya&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=krunal-ambaliya&icon=5&color=1)](https://visitcount.itsvg.in)
